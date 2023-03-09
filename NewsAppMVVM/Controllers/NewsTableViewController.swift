@@ -14,3 +14,4 @@ class NewsTableViewController: UITableViewController {
         navigationController?.navigationBar.prefersLargeTitles = true
     }
 }
+
